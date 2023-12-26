@@ -12,5 +12,5 @@ robot_sensing.ipynb - Performed experiments on classification of different floor
 
 Task 3: Q-learning for mobile robot navigation
 
-maze_navigation.ipynb - Performed experimetns on maze navigation using Q-learning
+maze_navigation.ipynb - Performed experiments on maze navigation using Q-learning
 
